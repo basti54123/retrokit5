@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>¡Gracias por tu compra! – RetroKit</title>
+<style>
+  body{font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#0b0f1a;color:#eaf0ff;margin:0}
+  .wrap{max-width:720px;margin:40px auto;padding:24px}
+  .card{background:#12182a;border:1px solid #1c2540;border-radius:16px;padding:24px;text-align:center}
+  .btn{display:inline-block;margin-top:16px;padding:12px 16px;border-radius:12px;
+      background:linear-gradient(135deg,#5eff9c,#6ae2ff);color:#041019;font-weight:800;text-decoration:none}
+</style></head><body><div class="wrap">
+  <div class="card">
+    <h1>¡Gracias, compra confirmada! 🎮</h1>
+    <p>Descarga tu RetroKit. Abre la carpeta y baja el archivo ZIP.</p>
+    <a class="btn" href="https://drive.google.com/drive/folders/1R1nB3Tyja0KDFr1oxPfGK1T2ZSdqrsvA?usp=drive_link" target="_blank">
+      Abrir carpeta de descarga
+    </a>
+    <p style="opacity:.75;margin-top:10px">¿Dudas? Escríbenos por WhatsApp.</p>
+  </div>
+</div></body></html>
